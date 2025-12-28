@@ -14,7 +14,8 @@ dependencies = [
     "openai~=1.20.0",
     "tqdm~=4.66.2",
     "crewai~=1.6.1",
-    "groq~=1.0.0"
+    "groq~=1.0.0",
+    "langchain-community~=0.0.38"
 ]
 
 [build-system]
